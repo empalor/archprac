@@ -9,3 +9,5 @@
 .externalNativeBuild
 /.idea/*
 /.gradlew/wrapper/*
+.gradlew
+.settings-gradle
