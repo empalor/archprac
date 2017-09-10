@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CountriesApp</string>
+    <string name="country_name">Name</string>
+    <string name="country_native_name">Native Name</string>
+    <string name="native_name">Native Name %s</string>
+    <string name="country_list">Country List</string>
+</resources>
